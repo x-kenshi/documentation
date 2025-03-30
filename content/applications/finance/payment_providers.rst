@@ -472,3 +472,5 @@ payments from other payments.
    - :doc:`payment_providers/worldline`
    - :doc:`payment_providers/xendit`
    - :doc:`accounting/bank`
+- :doc:`payment_providers/paypal`
+
